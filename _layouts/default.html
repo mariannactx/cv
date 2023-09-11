@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     {% seo %} 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/style.css?v=" | relative_url }}">
 
     <!-- Setup Google Analytics -->
     {% if site.google_analytics %}
@@ -50,10 +50,14 @@
           {% capture skills %}{% include _{{language}}/skills.md %}{% endcapture %}
           {{ skills | markdownify }}
         </div>
-        <div id="main">
+        <div id="work-experiences">
           {% capture work-experiences %}{% include _{{language}}/work-experiences.md %}{% endcapture %}
           {{ work-experiences | markdownify }}
         </div>
+      </div>
+      <div id="education">
+          {% capture education %}{% include _{{language}}/education.md %}{% endcapture %}
+          {{ education | markdownify }}
       </div>
     </div>
     <script src="https://kit.fontawesome.com/a077880d4e.js" crossorigin="anonymous"></script>

@@ -2,42 +2,32 @@
 
 #### Software Engineer @ VTEX (mar/2021 - jun/2023)
 
-Worked with the team responsible of evolving the platform's payment flow: I helped to secure the platform against invaders, to maintain existing modules, to implement new payment methods and so on.
+`Typescript | NodeJS | .Net | AWS`
+
+Secured the platform's payment flow against invaders, maintained existing modules and implemented new ones. I was also involved on improvements for marketplace management.
 
 #### Software Engineer @ Phoebus (jul/2019 - feb/2021)
 
-Worked with the team responsible to create new integrations for card pass machines,
+`React Native | Javascript | NodeJS | AWS Lambda | Java | Kotlin | Gradle`
 
-#### Fullstack Web Developer/Researcher @ LAVID (jun/2018 - mar/2019)
+Worked with the team responsible to create and maintaining integrations for card pass machines, both the old and the smart ones, delivering to our clients useful features to their businesses.
+
+#### Fullstack Developer/Researcher @ LAVID (jun/2018 - mar/2019)
 
 `Javascript | NodeJS | HTML | CSS | MySQL`
 
-#### Fullstack Web Developer @ YuppieTech (apr/2016 - apr/2018)
+#### Fullstack Developer @ YuppieTech (apr/2016 - apr/2018)
 
-`PHP | Zend Framework | HTML | CSS | Javascript | Customer Service`
+`PHP | Zend | HTML CSS Javascript | Customer Service`
 
-#### Back-end Web Developer Intern @ AcadeoneSoftwares (aug/2015 - dec/2015)
+#### Back-end Developer Intern @ AcadeoneSoftwares (aug/2015 - dec/2015)
 
-`PHP | Zend Framework | Javascript`
+`PHP | Zend | Javascript`
 
-#### Client support and full stack developer @ CCHLA/UFPB - Intern
+#### Fullstack Developer Intern @ CCHLA/UFPB (/2014 - /2014)
 
 `PHP | Wordpress | Drupal | HTML | CSS | Customer Service`
 
-#### Freelancer (jun/2013 - apr/2016 )
+#### Freelancer Fullstack Developer (jun/2013 - apr/2016)
 
-`PHP | Wordpress | Wordpres Plugins | HTML | CSS | Javascript`
-
-## Education
-
-#### Software Enginer @ Digital Product School (sep/2018 - nov/2018)
-
-Digital Product School is a 3-month training program which promotes a realistic enviroment for building digital products in a diverse and multidisciplinary team, aiming to solve real problems around mobility and transportation.
-
-#### Exchange Student @ IPB (feb/2015 - jun/2015)
-
-One semester Bachelor of Multimedia, Programming and Entrepreneuship
-
-#### Student @ UFPB
-
-Bachelor of Communication in Digital Media
+`PHP | Wordpress & Plugins | Laravel | HTML | CSS | Javascript`
