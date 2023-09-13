@@ -6,7 +6,7 @@
 
 Estive envolvida na segurança do fluxo de pagamento contra invasores, manutenção dos módulos existentes e implementação de novos. Também nas melhorias dos módulos de gerenciamento de marketplace.
 
-#### Engenheira de Software @ Phoebus (jul/2019 - feb/2021)
+#### Engenheira de Software @ Phoebus (jul/2019 - fev/2021)
 
 `React Native | Javascript | NodeJS | AWS Lambda | Android | Gradle`
 
@@ -18,11 +18,11 @@ Integrei o time responsável pela criação e manutenção de integrações para
 
 `Javascript | NodeJS | HTML | CSS | MySQL`
 
-#### Desenvolvedora Fullstack @ YuppieTech (apr/2016 - apr/2018)
+#### Desenvolvedora Fullstack @ YuppieTech (abr/2016 - abr/2018)
 
 `PHP | Zend Framework | HTML CSS Javascript | Customer Service`
 
-#### Desenvolvedora Back-end Estagiária @ Acadeone (aug/2015 - dec/2015)
+#### Desenvolvedora Back-end Estagiária @ Acadeone (ago/2015 - dez/2015)
 
 `PHP | Zend Framework | Javascript`
 
@@ -30,6 +30,6 @@ Integrei o time responsável pela criação e manutenção de integrações para
 
 `PHP | Wordpress | Drupal | HTML | CSS | Customer Service`
 
-#### Freelancer Fullstack Desenvolvedora (jun/2013 - apr/2016)
+#### Desenvolvedora Fullstack Freelancer (jun/2013 - abr/2016)
 
 `PHP | Wordpress & Plugins | Laravel | HTML | CSS | Javascript`

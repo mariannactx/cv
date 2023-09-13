@@ -26,10 +26,10 @@ Worked with the team responsible to create and maintaining integrations for card
 
 `PHP | Zend Framework | Javascript`
 
-#### Fullstack Developer Intern @ CCHLA/UFPB (jun/2013 - abr/2014)
+#### Fullstack Developer Intern @ CCHLA/UFPB (jun/2013 - apr/2014)
 
 `PHP | Wordpress | Drupal | HTML | CSS | Customer Service`
 
-#### Freelancer Fullstack Developer (jun/2013 - apr/2016)
+#### Fullstack Developer Freelancer (jun/2013 - apr/2016)
 
 `PHP | Wordpress & Plugins | Laravel | HTML | CSS | Javascript`
