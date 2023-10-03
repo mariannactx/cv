@@ -2,7 +2,7 @@
 
 #### Engenheira de Software @ VTEX (mar/2021 - jun/2023)
 
-`Typescript | GraphQL | NodeJS | .Net | AWS`
+`Typescript | GraphQL | NodeJS | .Net | AWS | TeamCity | Splunk`
 
 Estive envolvida na segurança do fluxo de pagamento contra invasores, manutenção dos módulos existentes e implementação de novos. Também nas melhorias dos módulos de gerenciamento de marketplace.
 
