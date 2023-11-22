@@ -4,7 +4,7 @@
 
 `Typescript | GraphQL | NodeJS | .Net | AWS | TeamCity | Splunk`
 
-Secured the platform's payment flow against invaders, maintained existing modules and implemented new ones. I was also involved on improvements for marketplace management.
+Maintained existing modules and implemented new ones on platform's payment flow, monitored and secured against incidents and invaders. I was also involved on improvements for marketplace management.
 
 #### Software Engineer @ Phoebus (jul/2019 - feb/2021)
 
