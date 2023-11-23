@@ -2,7 +2,7 @@
 
 #### Software Engineer @ VTEX (mar/2021 - jun/2023)
 
-`Typescript | GraphQL | NodeJS | .Net | AWS | TeamCity | Splunk`
+`Typescript | GraphQL | NodeJS | React | .Net | AWS | TeamCity | Splunk`
 
 Maintained existing modules and implemented new ones on platform's payment flow, monitored and secured against incidents and invaders. I was also involved on improvements for marketplace management.
 
