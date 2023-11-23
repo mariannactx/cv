@@ -3,14 +3,14 @@
 **Portuguese** | Native
 **English** | Advanced
 **Spanish** | Beginner
-**French** | Beginner
 
 ## Skills
 
 NodeJS | Advanced
 Typescript | Advanced
 GraphQL | Intermediate
-AWS | Advanced
+React | Intermediate
+AWS | Intermediate
 GIT | Advanced
 HTML/CSS | Advanced
 .Net | Beginner

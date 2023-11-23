@@ -3,14 +3,14 @@
 **Português** | Nativo
 **Inglês** | Avançado
 **Espanhol** | Iniciante
-**Francês** | Iniciante
 
 ## Skills
 
 NodeJS | Avançado
 Typescript | Avançado
 GraphQL | Intermediário
-AWS | Avançado
+React | Intermediário
+AWS | Intermediários
 GIT | Avançado
 HTML/CSS | Avançado
 .Net | Iniciante
