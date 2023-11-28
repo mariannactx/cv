@@ -4,7 +4,7 @@
 
 `Typescript | GraphQL | NodeJS | React | .Net | AWS | TeamCity | Splunk`
 
-Estive envolvida manutenção e implementação módulos do fluxo de pagamento, monitoramento e segurança contra incidentes e atacantes. Também nas melhorias dos módulos de gerenciamento de marketplace.
+Estive envolvida na manutenção e implementação de módulos do fluxo de pagamento, monitoramento e segurança contra incidentes e atacantes. Também nas melhorias dos módulos de gerenciamento de marketplace.
 
 #### Engenheira de Software @ Phoebus (jul/2019 - fev/2021)
 
